@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Desktop\\CsharpDEPI\\Day04 EF Project3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F50FFAA6-7CC4-466A-B05F-F862796DE0FE}|Day04 EF Project3\\Day04 EF Project3.csproj|c:\\users\\hp\\onedrive\\desktop\\csharpdepi\\day04 ef project3\\day04 ef project3\\screenshot\\screenshot 2026-10-02 185117.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{F50FFAA6-7CC4-466A-B05F-F862796DE0FE}|Day04 EF Project3\\Day04 EF Project3.csproj|solutionrelative:day04 ef project3\\screenshot\\screenshot 2026-10-02 185117.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50FFAA6-7CC4-466A-B05F-F862796DE0FE}|Day04 EF Project3\\Day04 EF Project3.csproj|c:\\users\\hp\\onedrive\\desktop\\csharpdepi\\day04 ef project3\\day04 ef project3\\migrations\\20261002154825_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50FFAA6-7CC4-466A-B05F-F862796DE0FE}|Day04 EF Project3\\Day04 EF Project3.csproj|solutionrelative:day04 ef project3\\migrations\\20261002154825_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50FFAA6-7CC4-466A-B05F-F862796DE0FE}|Day04 EF Project3\\Day04 EF Project3.csproj|c:\\users\\hp\\onedrive\\desktop\\csharpdepi\\day04 ef project3\\day04 ef project3\\dbcontexts\\healthcarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50FFAA6-7CC4-466A-B05F-F862796DE0FE}|Day04 EF Project3\\Day04 EF Project3.csproj|solutionrelative:day04 ef project3\\dbcontexts\\healthcarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50FFAA6-7CC4-466A-B05F-F862796DE0FE}|Day04 EF Project3\\Day04 EF Project3.csproj|c:\\users\\hp\\onedrive\\desktop\\csharpdepi\\day04 ef project3\\day04 ef project3\\configurations\\appointmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50FFAA6-7CC4-466A-B05F-F862796DE0FE}|Day04 EF Project3\\Day04 EF Project3.csproj|solutionrelative:day04 ef project3\\configurations\\appointmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50FFAA6-7CC4-466A-B05F-F862796DE0FE}|Day04 EF Project3\\Day04 EF Project3.csproj|c:\\users\\hp\\onedrive\\desktop\\csharpdepi\\day04 ef project3\\day04 ef project3\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50FFAA6-7CC4-466A-B05F-F862796DE0FE}|Day04 EF Project3\\Day04 EF Project3.csproj|solutionrelative:day04 ef project3\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50FFAA6-7CC4-466A-B05F-F862796DE0FE}|Day04 EF Project3\\Day04 EF Project3.csproj|c:\\users\\hp\\onedrive\\desktop\\csharpdepi\\day04 ef project3\\day04 ef project3\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50FFAA6-7CC4-466A-B05F-F862796DE0FE}|Day04 EF Project3\\Day04 EF Project3.csproj|solutionrelative:day04 ef project3\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50FFAA6-7CC4-466A-B05F-F862796DE0FE}|Day04 EF Project3\\Day04 EF Project3.csproj|c:\\users\\hp\\onedrive\\desktop\\csharpdepi\\day04 ef project3\\day04 ef project3\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50FFAA6-7CC4-466A-B05F-F862796DE0FE}|Day04 EF Project3\\Day04 EF Project3.csproj|solutionrelative:day04 ef project3\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\AppData\\Local\\Temp\\36203a47-e5f6-4175-8e0f-06fefb29a97f_Day04.zip.97f\\Day04\\EFGiza02\\EFGiza02\\DbContexts\\SabahDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50FFAA6-7CC4-466A-B05F-F862796DE0FE}|Day04 EF Project3\\Day04 EF Project3.csproj|c:\\users\\hp\\onedrive\\desktop\\csharpdepi\\day04 ef project3\\day04 ef project3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50FFAA6-7CC4-466A-B05F-F862796DE0FE}|Day04 EF Project3\\Day04 EF Project3.csproj|solutionrelative:day04 ef project3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Screenshot 2026-10-02 185117.png",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\CsharpDEPI\\Day04 EF Project3\\Day04 EF Project3\\ScreenShot\\Screenshot 2026-10-02 185117.png",
+              "RelativeDocumentMoniker": "Day04 EF Project3\\ScreenShot\\Screenshot 2026-10-02 185117.png",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\CsharpDEPI\\Day04 EF Project3\\Day04 EF Project3\\ScreenShot\\Screenshot 2026-10-02 185117.png",
+              "RelativeToolTip": "Day04 EF Project3\\ScreenShot\\Screenshot 2026-10-02 185117.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-10-02T15:53:02.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20261002154825_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\CsharpDEPI\\Day04 EF Project3\\Day04 EF Project3\\Migrations\\20261002154825_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Day04 EF Project3\\Migrations\\20261002154825_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\CsharpDEPI\\Day04 EF Project3\\Day04 EF Project3\\Migrations\\20261002154825_InitialCreate.cs",
+              "RelativeToolTip": "Day04 EF Project3\\Migrations\\20261002154825_InitialCreate.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T15:48:26.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\CsharpDEPI\\Day04 EF Project3\\Day04 EF Project3\\Configurations\\AppointmentConfiguration.cs",
+              "RelativeDocumentMoniker": "Day04 EF Project3\\Configurations\\AppointmentConfiguration.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\CsharpDEPI\\Day04 EF Project3\\Day04 EF Project3\\Configurations\\AppointmentConfiguration.cs",
+              "RelativeToolTip": "Day04 EF Project3\\Configurations\\AppointmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T15:36:49.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SabahDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\AppData\\Local\\Temp\\36203a47-e5f6-4175-8e0f-06fefb29a97f_Day04.zip.97f\\Day04\\EFGiza02\\EFGiza02\\DbContexts\\SabahDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\36203a47-e5f6-4175-8e0f-06fefb29a97f_Day04.zip.97f\\Day04\\EFGiza02\\EFGiza02\\DbContexts\\SabahDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\AppData\\Local\\Temp\\36203a47-e5f6-4175-8e0f-06fefb29a97f_Day04.zip.97f\\Day04\\EFGiza02\\EFGiza02\\DbContexts\\SabahDbContext.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\36203a47-e5f6-4175-8e0f-06fefb29a97f_Day04.zip.97f\\Day04\\EFGiza02\\EFGiza02\\DbContexts\\SabahDbContext.cs [Read Only]",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T15:30:48.697Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HealthCareContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\CsharpDEPI\\Day04 EF Project3\\Day04 EF Project3\\DbContexts\\HealthCareContext.cs",
+              "RelativeDocumentMoniker": "Day04 EF Project3\\DbContexts\\HealthCareContext.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\CsharpDEPI\\Day04 EF Project3\\Day04 EF Project3\\DbContexts\\HealthCareContext.cs",
+              "RelativeToolTip": "Day04 EF Project3\\DbContexts\\HealthCareContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T15:27:57.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\CsharpDEPI\\Day04 EF Project3\\Day04 EF Project3\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Day04 EF Project3\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\CsharpDEPI\\Day04 EF Project3\\Day04 EF Project3\\Models\\Appointment.cs",
+              "RelativeToolTip": "Day04 EF Project3\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T15:07:38.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\CsharpDEPI\\Day04 EF Project3\\Day04 EF Project3\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Day04 EF Project3\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\CsharpDEPI\\Day04 EF Project3\\Day04 EF Project3\\Models\\Doctor.cs",
+              "RelativeToolTip": "Day04 EF Project3\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T15:02:38.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\CsharpDEPI\\Day04 EF Project3\\Day04 EF Project3\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Day04 EF Project3\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\CsharpDEPI\\Day04 EF Project3\\Day04 EF Project3\\Models\\Patient.cs",
+              "RelativeToolTip": "Day04 EF Project3\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T15:01:37.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\CsharpDEPI\\Day04 EF Project3\\Day04 EF Project3\\Program.cs",
+              "RelativeDocumentMoniker": "Day04 EF Project3\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\CsharpDEPI\\Day04 EF Project3\\Day04 EF Project3\\Program.cs",
+              "RelativeToolTip": "Day04 EF Project3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:54:52.636Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
